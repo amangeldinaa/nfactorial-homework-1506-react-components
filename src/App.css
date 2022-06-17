@@ -11,6 +11,12 @@ header {
   justify-items: center;
 }
 
+footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+}
+
 input {
   box-sizing: border-box;
   height: 10px;
